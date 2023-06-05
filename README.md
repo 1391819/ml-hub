@@ -6,8 +6,6 @@
 
 <div align="justify">
 
-## About
-
 A collection of Machine Learning models aimed at solving different tasks.
 
 ## Tasks
