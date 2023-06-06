@@ -20,6 +20,10 @@ A collection of Machine Learning models aimed at solving different tasks.
 
 **> deep-learning**
 
-[_ArtGAN_](https://github.com/1391819/artGAN): A Generative Adversarial Network for the generation of new synthetic art.
+[_artGAN_](https://github.com/1391819/artGAN): A Generative Adversarial Network for the generation of new synthetic art.
+
+**> reinforcement-learning**
+
+[_MA-seek_](https://github.com/1391819/MA-seek): A Multi Agent Reinforcement Learning (MARL) environment where two agents controlled by DRQNs play a custom version of the pursuit-evasion game.
 
 </div>
