@@ -6,10 +6,6 @@
 
 <div align="justify">
 
-A collection of Machine Learning models aimed at solving different tasks.
-
-## Tasks
-
 **> timeseries-forecasting**
 
 [_sales-forecasting_](https://github.com/1391819/sales-forecasting): Sales prediction and data enrichment using Catboost and Upgini.
