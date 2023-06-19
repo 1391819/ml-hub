@@ -22,4 +22,8 @@
 
 [_MA-seek_](https://github.com/1391819/MA-seek): A Multi Agent Reinforcement Learning (MARL) environment where two agents controlled by DRQNs play a custom version of the pursuit-evasion game.
 
+**> other (mix)**
+
+[_financial-researcher_](https://github.com/1391819/financial-researcher): A financial dashboard built using Streamlit, fine-tuned Transformers models and Prophet. Includes auto summarisation, sentiment analysis, and trend forecasting of stock and crypto news.
+
 </div>
